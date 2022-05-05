@@ -1,0 +1,40 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.lnkColor,
+.copyRight {
+  color: #000;
+}
+.lnkColor:hover {
+  color: #ea0909;
+}
+.copyRight {
+  font-size: 0.8rem;
+  font-weight: bold;
+}
+.rowYeah {
+  margin: auto;
+  margin-left: 70px;
+}
+.buttonGreen {
+  background-color: Green;
+  border-bottom: 1px green solid;
+  color: white;
+  border: none;
+}
+.buttonGreen:hover {
+  color: green;
+  background-color: whitesmoke;
+  border: 2px solid green;
+}
+.buttonGreen:visited {
+  background-color: Green;
+  border-bottom: 1px green solid;
+  color: white;
+  border: none;
+}
+.textSuccess {
+  font-weight: bold;
+}
